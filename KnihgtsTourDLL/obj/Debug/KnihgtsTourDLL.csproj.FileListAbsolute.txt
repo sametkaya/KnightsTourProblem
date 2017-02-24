@@ -1,0 +1,38 @@
+C:\Users\samet\Desktop\Knight's Tour\KnightsTour\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.dll
+C:\Users\samet\Desktop\Knight's Tour\KnightsTour\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.pdb
+C:\Users\samet\Desktop\Knight's Tour\KnightsTour\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.ChessBoardUserKont.resources
+C:\Users\samet\Desktop\Knight's Tour\KnightsTour\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csproj.GenerateResource.Cache
+C:\Users\samet\Desktop\Knight's Tour\KnightsTour\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.dll
+C:\Users\samet\Desktop\Knight's Tour\KnightsTour\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.pdb
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.dll
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.pdb
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.ChessBoardUserKont.resources
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csproj.GenerateResource.Cache
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.dll
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.pdb
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.Resource.resources
+C:\Users\samet\Desktop\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csprojResolveAssemblyReference.cache
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.dll
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.pdb
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csprojResolveAssemblyReference.cache
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.ChessBoardUserKont.resources
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.Resource.resources
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csproj.GenerateResource.Cache
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.dll
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.pdb
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.dll
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.pdb
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csprojResolveAssemblyReference.cache
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.ChessBoardUserKont.resources
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.Resource.resources
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csproj.GenerateResource.Cache
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.dll
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.pdb
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.dll
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\bin\Debug\KnihgtsTourDLL.pdb
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csprojResolveAssemblyReference.cache
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.ChessBoardUserKont.resources
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.Resource.resources
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.csproj.GenerateResource.Cache
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.dll
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnihgtsTourDLL\obj\Debug\KnihgtsTourDLL.pdb

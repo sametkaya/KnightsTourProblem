@@ -1,0 +1,42 @@
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.exe
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.pdb
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.dll
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.pdb
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csprojResolveAssemblyReference.cache
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Properties.Resources.resources
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csproj.GenerateResource.Cache
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.exe
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.pdb
+C:\Users\samet\Desktop\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Form1.resources
+C:\Users\samet\Desktop\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.exe
+C:\Users\samet\Desktop\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.pdb
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.exe
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.pdb
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.exe
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.pdb
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.dll
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.pdb
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csprojResolveAssemblyReference.cache
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Form1.resources
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Properties.Resources.resources
+G:\Eğitim\Projeler\yapay zeka\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csproj.GenerateResource.Cache
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.exe
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.pdb
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.exe
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.pdb
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.dll
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.pdb
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csprojResolveAssemblyReference.cache
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Form1.resources
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Properties.Resources.resources
+D:\sakarya\Ayrık Yapılar\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csproj.GenerateResource.Cache
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.exe
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.pdb
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.exe
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnightTourAplication.pdb
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.dll
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\bin\Debug\KnihgtsTourDLL.pdb
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csprojResolveAssemblyReference.cache
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Form1.resources
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.Properties.Resources.resources
+D:\sakarya\Ayrık Yapılar\Knight\Knight\KnightsTouring\KnightTourAplication\KnightTourAplication\obj\x86\Debug\KnightTourAplication.csproj.GenerateResource.Cache
